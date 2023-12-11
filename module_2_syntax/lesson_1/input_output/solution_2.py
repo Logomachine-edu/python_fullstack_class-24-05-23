@@ -1,2 +1,3 @@
 print("Добрый день! Вы работаете в магазине:")
-print(input("Гладиолус"))
+name_shop = "Гладиолус"
+print(name_shop)
